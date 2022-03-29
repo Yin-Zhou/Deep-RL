@@ -1,4 +1,4 @@
-# Deep Reinforcement Learning (Summer 2018)
+# Deep Reinforcement Learning
 This is my summer project in the area of Deep Reinforcement Learning:
-1. Implement policy gradient methods as well as evolutionary computation
-2. Try to create some hybrid algorithms of these methods
+1. Implement policy gradient methods including PPO, evolution strategies, and genetic algorithms
+2. Try to create some hybrid algorithms of gradient-based methods and evolution strategies
